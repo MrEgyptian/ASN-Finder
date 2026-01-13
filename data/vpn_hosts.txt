@@ -1,0 +1,1401 @@
+210558 # 1337 Services GmbH
+54500 # 18779 - EGIHosting
+14315 # 1GSERVERS
+39845 # 2 Cloud Ltd.
+20738 # 20738
+30836 # 23VNet Kft
+49949 # 24 Solutions AB
+31242 # 3S S.A.
+45671 # 45671-NET-AU Wholesale Services Provider
+61218 # 4b42
+57858 # 57858
+13124 # A1BG_RSD
+55293 # A2 Hosting
+6982 # A2 Hosting
+204196 # ABELOHOST
+39287 # ABSTRACT
+52210 # Accuris Hosting
+398779 # ACEHOST
+197071 # Active Servers
+51698 # Activehost RU Ltd.
+42442 # Adacor Hosting GmbH
+212772 # ADGUARD
+11274 # Adhost Internet Advertising
+57345 # ADM-HOST di Ratti Alessandro
+51701 # Adminor
+39572 # ADVANCEDHOSTERS-AS
+135682 # Advika Data Center Services Pvt Ltd
+206216 # Advin Services LLC
+210644 # Aeza International Ltd
+328608 # Africa on Cloud
+43146 # Agava ltd
+60713 # Agnat Sp. z o.o. - EXEA Sp. z o.o.
+50415 # AHOSTING - Ahosting a.s.
+28716 # AirVPN
+209 # Akamai International B.V.
+12222 # Akami
+33905 # Akami AMS
+35994 # Akami AS
+36183 # Akami AS
+21342 # Akami Internation #2
+20940 # Akami International
+34164 # Akami London
+24319 # Akami Tokyo
+16625 # Akami-AS
+38136 # Akari Networks
+61112 # AKILECLOUD - AKILE LTD
+199829 # Akronic Network
+48014 # ALBHOST - Albanian Hosting SH.P.K.
+54817 # ALDEN HOSTING LLC
+4250 # ALENT-ASN-1 - Alentus Corporation
+134963 # Alibaba
+37963 # ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.
+60118 # ALISTAR-AS
+266768 # ALKON SAS
+53342 # All Nine Hosting
+33569 # ALLHOSTSHOP.COM
+24768 # ALMOUROLTEC
+213277 # ALMOUROLTEC SERVICOS DE INFORMATICA E INTERNET LDA
+51430 # ALTUSHOST-NET
+60362 # ALWAYSDATA SARL
+40994 # Alwyzon
+32489 # AMANAHA-NEW - Amanah Tech Inc.
+8987 # Amazon Data Services Ireland Ltd
+16509 # AMAZON-02 - Amazon.com
+14618 # AMAZON-AES - Amazon.com
+801 # Amazon.com
+699 # Amazon.com
+7224 # Amazon.com
+38895 # Amazon.com
+62785 # Amazon.com
+37643 # Ambion-AS
+29838 # AMC - Atlantic Metro Communications
+42473 # ANEXIA-AS A-9020 # Klagenfurt
+37684 # Angani
+53559 # ANONYMIZER - Anonymizer Inc.
+201983 # Ansluten Hosting i Sverige AB
+132425 # APC Hosting Pte Ltd
+38008 # Aperture Networks
+211144 # ApeWeb
+37349 # Aptus Solutions
+41653 # AQUARAY
+60150 # area-7 IT-Services GmbH
+21321 # ARETI-AS
+57230 # ARIAWEBCO-AS
+197395 # Ark B Hosting BV
+25795 # ARP Networks
+197155 # ARTNET
+200088 # Artnet Sp. z o.o.
+31034 # ARUBA-ASN
+199883 # ARUBACLOUDLTD-ASN
+199653 # ARUBAFR-AS
+24997 # AS for CDN
+42699 # AS managedhosting.de GmbH
+31698 # AS Number for WebHost.ie Ltd
+198153 # AS SEIDOR DATACENTER SANTANDER
+60485 # AS-60485
+63119 # AS-63119 - netirons
+36352 # AS-COLOCROSSING - ColoCrossing
+64245 # AS-DIGITALFYRE - DigitalFyre Internet Solutions
+200462 # AS-ETH ETH-Services
+41111 # AS-GEOHOSTING - FAST GEO HOSTING S.R.L.
+54104 # AS-NETDNA - netDNA
+30176 # AS-PRIORITYCOLO - Priority Colo Inc
+51395 # AS-SOFTPLUS
+20712 # AS20712 Andrews & Arnold Ltd
+213929 # AS213929.ch
+28929 # ASDASD
+30736 # ASERGO Scandinavia ApS
+12586 # ASGHOSTNET
+205053 # Asimia Damaskou
+42612 # ASN de Dinahosting SL
+22773 # ASN-CXA-ALL-CCI-22773-RDC
+32181 # ASN-GIGENET - GigeNET
+8100 # ASN-QUADRANET-GLOBAL - QuadraNet
+46430 # ASN-VICTON - VICTON
+29311 # ASP4all Hosting B.V.
+49367 # ASSEFLOW Amsterdam Internet Exchange
+43599 # Astrill
+63213 # Astute Hosting Inc.
+54527 # Astute Hosting Inc.
+59764 # ATLANTIC-NET
+57367 # Atman S.A.
+41406 # Atman S.A.
+15694 # Atman S.A.
+27175 # AtNetHost LLC
+13209 # Atom Hosting SRL
+8455 # atom86 BV
+41075 # ATW Internet Kft
+30823 # Aurologic
+400818 # Ausra LLC
+17290 # Austin Hadley SP
+29140 # Autonomous System Hostserver GmbH
+198605 # AVAST Software s.r.o.
+208590 # AVE-AS Lasagna Ltd
+23507 # AVS ISP
+33083 # AXCELX-NET - AxcelX Technologies LLC
+153371 # Back Waves
+8473 # Bahnhof AB
+44103 # Bakker IT
+25369 # BANDWIDTH-AS
+27223 # Bare Metal Hosting
+17012 # Base IP
+9605 # BBIX
+37280 # BCL
+34305 # BEIP
+44901 # BelCloud Hosting Corporation
+31659 # Below Zero Hosting Ltd.
+212513 # Bernhard Josef Stelzl
+49834 # Best Hosting Company Ltd
+49693 # Best-Hoster Group Co. Ltd
+30152 # Beyond Hosting
+151704 # Bharat Datacenter
+60011 # BHOST
+59895 # Binary Racks
+19133 # Bird Hosting Inc.
+37714 # BITFLUX
+198414 # Biznes-Host.pl sp. z o.o.
+33724 # BIZNESSHOSTING - VOLICO
+50304 # Blix Solutions AS
+45201 # BlueCentral Pty Ltd Hosting Solutions.
+31981 # BlueTower Hosting LLC
+62005 # BlueVPS OU
+62605 # Brain Host
+210779 # BREEZLE LLC
+8577 # BTN
+16702 # BTN
+35830 # BTTGROUP-AS - BTT Group Finance Ltd
+263735 # Buena Hosting
+61412 # BunkerInfra Datacenters BV
+61280 # By Hosting B.V.
+215380 # ByteNode B.V.
+212271 # C1V Hosting
+53332 # C2Hosting
+35432 # Cablenet Communication Systems plc
+46805 # CACHED - CachedNet LLC
+61147 # CallHosted B.V.
+51109 # CAMELHOST SIA
+19234 # Canada Web Hosting
+40438 # Canhost Inc.
+10991 # CAPGE-HOSTING-MRO
+141995 # CAPL-AS-AP Contabo Asia Private Limited
+10439 # CARINET - CariNet
+26978 # Carpathia Hosting
+58797 # Carpathia Hosting
+35974 # Carpathia Hosting
+29748 # Carpathia Hosting
+9335 # CAT Telecom Public Company Limited
+20836 # CDLAN-AS Milano
+38107 # CDNetworks
+36408 # CDNetworks Inc.
+57363 # CDNvideo LLC
+63199 # CDSC-1 - Capitalonline Data Service Co.
+398324 # CENSYS-ARIN-01
+398722 # CENSYS-ARIN-03
+262990 # CENTER HOSTING TECNOLOGIA EIRELI
+262978 # Centro de Tecnologia Armazem Datacenter Ltda.
+3561 # CENTURYLINK-LEGACY-SAVVIS - Savvis
+52925 # centy DataCenters Locacao e Servicos LTDA
+43021 # Certit Hosting Handelsbolag
+56971 # CGI Global Limited
+216360 # Charged IT Solutions
+20115 # CHARTER-20115
+16125 # CHERRYSERVERS1-AS
+2048 # Choopa
+205157 # CIDNOC
+40568 # CIRADNS3
+36692 # CISCO-UMBRELLA
+7850 # CITYLINKFIBER - iHighway.net
+33785 # CITYNET
+39704 # CJ2 Hosting B.V.
+62899 # Clarity Web Hosting Inc.
+53281 # Clearpath Hosting
+59615 # CLOUD HOSTING LLC
+199785 # Cloud Hosting Solutions
+206446 # CLOUD LEE # Ltd
+200019 # CLOUDATA
+13122 # CLOUDFLARENET
+13127 # CLOUDFLARENET
+202623 # CLOUDFLARENET
+209242 # CLOUDFLARESPECTRUM Cloudflare
+55933 # CLOUDIE-AS-AP Cloudie Limited
+44222 # Cloudity
+205787 # CloudPrima
+33330 # CLOUDRADIUM-ASN - CloudRadium L.L.C
+394256 # CLOUDSINGULARITY - Tech Futures Interactive Inc.
+24669 # Clouvider Limited
+62240 # CLOUVIDER London
+56040 # CMNET-GUANGDONG-AP China Mobile communications corporation
+42695 # CNHAB
+45102 # CNNIC-ALIBABA-CN-NET-AP Alibaba
+55967 # CNNIC-BAIDU-AP Beijing Baidu Netcom Science and Technology C
+174 # COGENT-174
+36024 # COLO4-CO - Colo4
+6597 # Coloblox Data Centers
+15497 # "COLOCALL Internet Data Center ""ColoCALL"""
+55761 # Colocation Hosting Sdn Bhd
+8283 # COLOCLUE-AS Netwerkvereniging Coloclue
+52335 # Colombia Hosting
+17139 # Colorado Colo
+19084 # COLOUP - ColoUp
+8220 # Colt Technology Services
+7922 # COMCAST-7922
+57118 # COMMUNITYRACK
+39020 # COMVIVE-AS Madrid - Spain
+40034 # CONFLUENCE-NETWORK-INC
+40021 # Contabo Inc
+63008 # CONTINA - Contina
+398962 # CONTROLD
+37308 # COOLLINK
+1097 # Core Transit
+33891 # CORE-BACKBONE
+54489 # CORESPACE-DAL - CoreSpace
+16973 # Corporacion Hostarica S.A.
+263740 # Corporacion Laceibanetsociety
+196827 # Credocom Hosting ApS
+8657 # Critical Links LLC
+63051 # CRITICALHOSTING-USA
+13193 # Crown Castle Fiber
+32647 # Crucial Web Hosting
+14992 # CrystalTech Web Hosting Inc.
+15510 # CWCS-PS
+34659 # CyberGhost
+198968 # Cyberneticos Hosting SL
+20598 # CYBERSPACE-AS Autonomous System number for Cyber Space
+59504 # CYBERTECH-AS
+400899 # CYCLONESERVERS-LLC
+20701 # CZNIC-AS3
+399646 # DartNode
+52423 # Data Miners S.A.
+50446 # DataCamp Limited
+60068 # Datacamp Limited
+211612 # DataCamp Limited
+212238 # Datacamp VPN?
+196745 # Datacenta Hosting Ltd
+53225 # DATACENTER
+35478 # DATACENTER - Bunea TELECOM SRL
+41427 # DataCenter d.o.o.
+53101 # Datacenter e Provedores Ltda-ME
+41369 # DataCenter Finland Oy
+35467 # DataCenter Fryslan AS
+59554 # Datacenter Groningen B.V.
+52674 # DATACENTER LTDA
+24611 # Datacenter Luxembourg S.A.
+48812 # DataCenter Noord BV
+13739 # DATACENTER-IP - Datacenter IP
+40715 # DataCenter.BZ
+52048 # DATACLUB
+60567 # DATACLUB-
+62071 # Datahost SRL
+21040 # DATAPARK
+33387 # DATASHACK - DataShack
+27176 # Datawagon
+15544 # Dataways
+17216 # DC74-AS - DC74 LLC
+44066 # DE-FIRSTCOLO www.first-colo.net
+16628 # DEDICATED-FIBER-COMMUNICATIONS - DedFiberCo
+132869 # Dedicated-Hosting Solutions
+56106 # DEDICATEDGAMING.COM.AU - Hosting Provider AUSTRALIA
+35913 # DediPath
+32911 # DediPower Managed Hosting
+57669 # DediPower Managed Hosting Limited
+24931 # DediPower Managed Hosting Limited
+16262 # DELTA-LTD-AS
+61317 # DETUK host1plus.com
+42993 # DGTL Technologies LLC
+44716 # DHOSTING-NET - D-hosting die Rackspace & Connectivity GmbH
+48896 # dhosting.pl Sp. z o.o.
+37907 # DIGIROCK DigiRock
+201449 # Digital Absolut Business - Servidor
+61440 # Digital Energy Technologies Chile SpA
+45481 # Digital Sense Data Centre Hosting Brisbane
+10355 # Digital Service Consultants
+135340 # DigitalOcean
+202109 # DigitalOcean
+202018 # DigitalOcean
+201229 # DigitalOcean
+39690 # DigitalOcean
+205301 # DigitalOcean
+133165 # DigitalOcean
+394362 # DigitalOcean
+200130 # DigitalOcean
+393406 # DigitalOcean
+14061 # DIGITALOCEAN-ASN - Digital Ocean
+62567 # DIGITALOCEAN-ASN-NY2 # - Digital Ocean
+132509 # DIGIWEB ADVANCED HOSTING LIMITED
+33182 # DIMENOC - HostDime.com
+39839 # DK Hostmaster A/S
+63129 # DL Host
+64484 # DMZHOST
+57138 # DOH-MULLVAD DOH MULLVAD
+36887 # DOPC-AS
+53370 # dotCOM host
+49349 # DOTSI
+62540 # DRAKE-AS - Drake Holdings LLC
+200373 # DREI-K-TECH-GMBH - 3xK Tech GmbH
+211298 # DRIFTNET - Driftnet Ltd
+25048 # DSNet Hosting Limited
+46816 # DSNETWORKS-001 - DirectSpace Networks
+3320 # DTAG Internet service provider operations
+198468 # DutchIS
+212815 # Dyjix
+28747 # Easyhost BVBA
+26930 # EasyVM
+55051 # EBOUNDHOST.com
+46433 # EBOUNDHOST.com
+18570 # EchoStar Broadcasting Corperation
+13955 # Echostar Broadcasting Corporation
+16535 # Echostar Holding Purchasing Corporation
+12312 # ECOTEL - ecotel communication ag
+64419 # ECOTEL-AS - Ecotel
+32437 # EdgeConnect
+7195 # EdgeUno
+22903 # Edgewebhosting.net
+47787 # Edgoo Networks
+57169 # EDIS-AS-EU
+9823 # Education Web Hosting
+18779 # EGIHOSTING - EGIHosting
+45382 # EHOSTICT
+206331 # EHOSTINGONLINE - E-Hosting Online LLC
+264254 # EIVUS
+46945 # Elite Hosts
+263032 # Empire Host
+64249 # endoffice.com
+10297 # ENET-2 - eNET Inc.
+36536 # Enterhost
+18978 # ENZUINC-US - Enzu Inc
+62904 # Eonix
+10747 # EPIC-HOSTING
+16397 # EQUINIX BRASIL SP
+39351 # ESAB-AS
+11831 # ESECUREDATA - eSecureData
+48927 # ESEVEN
+22552 # ESITED - eSited Solutions
+206804 # EstNOC OY
+203758 # eugamehost.com
+51765 # EUHOST
+42730 # EVANZOAS
+9143 # EWE TEL GmbH
+50986 # Excellent Hosting Sweden AB
+201553 # Excom cloud S.L.
+58436 # ExpertVM
+62731 # ExpressVPN
+199733 # Extrahost GmbH
+21738 # F4 Networks
+3292 # Facebook
+41495 # FAELIX
+202759 # FAIRYHOSTING - RJ Network OU
+56704 # Farice ehf
+48825 # Fast2host Ltd
+54113 # FASTLY
+30058 # FDCservers.net
+49581 # Ferdinand Zink trading as Tube-Hosting
+37518 # Fiber Grid INC
+58065 # Fiber Grid/PacketExchange
+53340 # FIBERHUB - VegasNAP
+47152 # Fibersix
+52321 # Fideicomiso de Administración Datacenter Capitalinas
+327784 # FIDELITY-BANK
+35914 # FireHost
+41108 # First Root
+43317 # FISHNET-AS
+200651 # Flokinet
+210632 # Floofy Hosting LLC
+198057 # Flooyd
+33552 # Fluid Hosting LLC
+40509 # FLY
+212567 # FNMUC
+12414 # Forcepoint Cloud Ltd
+15391 # FORMAT sp. z o.o.
+44051 # FORNEX-AS - Fornex Hosting S.L.
+29331 # Forsikringens Datacenter A/S
+208323 # Foundation for Applied Privacy
+200904 # Foxcloud Llp
+61597 # Free Range Cloud
+42331 # FREEHOST
+1835 # FSKNET-DK Forskningsnettet - Danish network for Research and Education
+327705 # FUTA
+37377 # Futurecom
+199524 # G-Core Labs
+52236 # G2KHosting S.A.
+28855 # GalacSYS is an hosting and managed services provider
+37018 # GALAXYBB-AS
+198347 # Game-Hosting GH AB
+50338 # GamerHost s.r.o.
+29169 # GANDI-AS Domain name registrar - www.gandi.net
+328110 # Garanntor
+40728 # GearHost
+18120 # Gemini Software Solutions
+53914 # Genesis Hosting Solutions
+55720 # Gigabit Hosting Sdn Bhd
+213010 # GigaHostingServices OU
+57286 # Gigas Hosting S.A.
+27640 # GIGAS HOSTING USA
+59432 # GINERNET
+207960 # Glauca Digital
+43948 # Glesys
+48950 # GLOBAL COLOCATION LIMITED
+57172 # Global Layer B.V.
+137409 # Global Secure Layer Data Center
+200698 # Globalhost d.o.o.
+49453 # GLOBALLAYER
+62563 # GLOBALTELEHOST Corp.
+59349 # GMO-Z-COM GMO-Z.COM PTE. LTD.
+202118 # Go Hosting S.P.R.L.
+198644 # GO6
+398101 # GoDaddy.com
+398106 # GoDaddy.com
+397514 # GoDaddy.com
+397516 # GoDaddy.com
+398102 # GoDaddy.com
+398103 # GoDaddy.com
+397517 # GoDaddy.com
+397518 # GoDaddy.com
+397519 # GoDaddy.com
+398104 # GoDaddy.com
+397520 # GoDaddy.com
+397521 # GoDaddy.com
+397522 # GoDaddy.com
+398105 # GoDaddy.com
+400752 # GoDaddy.com
+400751 # GoDaddy.com
+400750 # GoDaddy.com
+400749 # GoDaddy.com
+400748 # GoDaddy.com
+400747 # GoDaddy.com
+400746 # GoDaddy.com
+398794 # GoDaddy.com
+400755 # GoDaddy.com
+398793 # GoDaddy.com
+400753 # GoDaddy.com
+398792 # GoDaddy.com
+398791 # GoDaddy.com
+397513 # GoDaddy.com
+398790 # GoDaddy.com
+16892 # GoDaddy.com
+398789 # GoDaddy.com
+398788 # GoDaddy.com
+398787 # GoDaddy.com
+400754 # GoDaddy.com
+26496 # GoDaddy.com
+398786 # GoDaddy.com
+398785 # GoDaddy.com
+398110 # GoDaddy.com
+398109 # GoDaddy.com
+398107 # GoDaddy.com
+397515 # GoDaddy.com
+9290 # GoHosting
+15169 # GOOGLE - Google Inc.
+396982 # Google Cloud Platform
+19527 # GOOGLE-2
+19844 # GORACK - GoRack LLC
+53850 # GORILLERVERS - Gorillervers
+45887 # GPLHost LLC
+21472 # Green Colo
+204957 # GREENFLOID-AS - GREEN FLOID LLC
+204092 # GRIFON
+263702 # GRUPO ZGH SPA
+36666 # GTCOMM - GloboTech Communications
+63023 # Gthost
+51731 # GTT-AS
+6870 # H1ASN
+51050 # H4Hosting B.V.
+29522 # H88 S.A.
+201709 # HanDS Hanse Datacenter Services GmbH
+49434 # Harmony Hosting / DC2SCALE
+211360 # HatHost
+20068 # Hawk Host Inc.
+3280 # Hetnix / LayerBridge
+37153 # HETZNER
+213230 # Hetzner Cloud2
+212317 # Hetzner Cloud3
+215859 # Hetzner Cloud4
+14103 # Hetzner Online GmbH
+24940 # HETZNER-AS
+395089 # HEXTET - Hextet Systems
+398108 # Hide.me
+19871 # HideMyAss
+49485 # High Availability Hosting Limited
+40374 # High Density Hosting
+11588 # HIGHWINDS - Highwinds Network Group
+12989 # Highwinds Network Group
+33185 # Hive Datacenter
+198831 # HOLYCLOUD
+12824 # home.pl S.A.
+20552 # Horyzont Technologie Internetowe sp.z.o.o.
+329184 # Host Africa
+14415 # Host Collective
+46873 # Host Color
+14384 # HOST DESIGNS
+54555 # Host Duplex
+263237 # HOST E.I.R.L.
+10204 # Host Europe GmbH
+34011 # Host Europe GmbH
+53918 # Host Hotels and Resorts
+4851 # Host Networks
+32306 # Host NIT Inc
+133229 # Host Palace Internet Services
+28216 # Host Revenda
+60117 # Host Sailor Ltd.
+136557 # Host Universal Pty Ltd
+42210 # Host Virtual
+36236 # Host Virtual
+51248 # Host-Telecom.com s.r.o.
+213683 # HOST.AL Shpk
+49815 # Host2 Ltd
+34649 # HOST365 LIMITED
+41562 # Host4all Sarl
+33260 # Hostaurus
+24220 # Hostcentral
+52347 # HOSTCLICK
+45815 # HOSTCOIN-AS-IN-AP ESDS Software Solution Pvt. Ltd.
+45486 # HostCorp Internet
+19151 # HostDime.com
+10139 # HostDime.com
+53055 # HostDime.com.br Data Center
+51290 # HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI
+132225 # Hosted Continuity Pty Ltd
+133120 # Hosted Network Pty. Ltd.
+42776 # Hostel Ltd.
+55799 # Hostemo Technology Sdn Bhd
+142036 # Hosteons
+48446 # Hostersi Sp. z o.o.
+20773 # HOSTEUROPE-AS
+263093 # Hostgator Brasil Hospedagem e suporte tecnico LTDA
+210546 # HostHatch
+63473 # HOSTHATCH-ASN - HostHatch
+56732 # Hostinet AS
+1824 # HOSTING
+42399 # Hosting Center LLC
+47385 # Hosting center Ltd.
+40539 # Hosting Consulting
+42244 # Hosting Operator eServer.ru Ltd.
+13644 # Hosting Services
+14576 # Hosting Solution Ltd.
+47549 # Hosting Systems Ltd
+200147 # Hosting Techniques Limited
+200000 # Hosting Ukraine LTD
+41665 # HOSTING-AS hosting.ua
+39150 # HOSTING-TELECOM-AS - HOSTING TELECOM LTD
+14522 # Hosting2b
+208332 # HOSTING2GO - Hosting 2 GO B.V.
+393326 # Hosting4Biz
+14265 # Hosting4Real
+198171 # HOSTING90 systems s.r.o.
+57773 # HOSTINGBIT SRL
+204915 # Hostinger International Limited
+47583 # Hostinger International Limited
+10578 # HostingInside B.V.
+9678 # HostingInside LTD.
+43472 # HostingMax Ltd
+32780 # HOSTINGSERVICES-INC - Hosting Services
+32338 # Hostiserver Ltd
+9166 # HostIT NV
+57043 # HOSTKEY-AS
+62082 # Hostland LTD
+198651 # HOSTLINE
+50968 # Hostmaster
+24725 # Hostmaster LLC
+29067 # Hostmaster LLC
+48874 # HOSTMAZE INC
+197902 # Hostnet B.V.
+42418 # Hostnordic A/S
+399804 # Hostodo
+37738 # hostoweb
+29097 # Hostpoint AG
+196645 # Hostpro Ltd.
+56110 # HostRightNow Technologies India Pvt Ltd
+62756 # HostRocket.com
+29869 # HostRocket.com
+23535 # HostRocket.com
+134450 # HostRoyale Technologies Pvt Ltd
+133499 # HostRoyale Technologies Pvt Ltd
+46516 # HostRoyale Technologies Pvt Ltd
+204287 # HostRoyale Technologies Pvt Ltd
+396931 # HostRoyale Technologies Pvt Ltd
+39486 # HostRoyale Technologies Pvt Ltd
+35672 # HostRoyale Technologies Pvt Ltd
+203020 # HostRoyale Technologies Pvt Ltd
+207990 # HostRoyale Technologies Pvt Ltd
+10026 # HostSailor Ltd.
+26484 # HOSTSPACE NETWORKS LLC
+25926 # HostUS
+7489 # HOSTUS-GLOBAL-AS HostUS
+15189 # HostVentures.com
+20401 # Hostway Corporation
+25128 # Hostway Deutschland GmbH
+24679 # Hostway Deutschland GmbH
+39756 # HOSTWAY ROMANIA SRL
+32400 # Hostway Services
+21773 # Hostwinds LLC
+135085 # Hostwinds LLC
+54290 # Hostwinds LLC.
+17451 # Hostwinds LLC.
+9412 # Hostworks Content Delivery System
+9667 # Hostworks Pty Ltd
+29802 # Hotspot Shield
+53597 # HOYOS-CONSULTING-LLC - Hoyos Consulting LLC
+29302 # HSI-EUROPE
+39326 # HSO-GROUP
+55990 # Huawei
+136907 # HUAWEI CLOUDS
+51294 # HUBARA hosting solutions S.L.
+25780 # HUGESERVER-NETWORKS - HugeServer Networks
+6939 # HURRICANE - Hurricane Electric
+17470 # HUTCHISON-LK
+200039 # HYDRACOM-AS
+47272 # HYEHOST
+60503 # HyperFilter
+37209 # HYPERIA
+202662 # hytron
+59711 # HZ Hosting Ltd
+202015 # HZ Hosting Ltd
+61046 # HZ Hosting Ltd
+11081 # HZ Hosting Ltd.
+201525 # HZ-CA-AS
+49544 # I3DNET
+202276 # IBOSS
+37269 # ICSL
+4694 # IDC Yahoo Japan Corporation
+29262 # IDEALHOSTING - Ideal Hosting Teknoloji A.S.
+15734 # IDH
+136052 # IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia
+34927 # iFog GmbH
+23052 # ihost Solutions
+28099 # iHosting Servicios Internet Ltda.
+2497 # IIJ Internet Initiative Japan Inc.
+14127 # ILAND - Iland Internet Solutions Corporation
+55225 # ILIKA - velia.net
+19551 # INCAPSULA
+54540 # INCERO - Incero LLC
+45693 # INDIAGAMES TRANSIT AS Content hosting serivce India
+29670 # Individual Network Berlin e.V.
+17881 # Inet Hosting Inc.
+197328 # INETLTD
+207841 # Inferno Communications
+50297 # INFIUM
+15083 # INFOLINK-MIA-US - Infolink Global Corporation
+17918 # INFOPLEX Hosting and Managed Service Provider Asia Pacific
+17669 # INFOPLEX Hosting and Managed Service Provider Asia Pacific
+61272 # Informacines sistemos ir technologijos
+50926 # Infortelecom Hosting
+8587 # INFRACOM-AS
+201634 # Ingram Micro Hosting B.V.
+13030 # Init7
+38421 # InMotion Hosting
+226111 # InMotion Hosting
+22611 # InMotion Hosting
+54641 # InMotion Hosting
+43962 # INTEN J. Granat
+57433 # Intercolo
+212861 # Intercolo
+133480 # INTERGRID-AS-AP Intergrid Group Pty Ltd
+61102 # INTERHOST
+132071 # Interhost Pacific Pty Ltd t/a Intervolve
+45577 # Interhost Pacific Pty Ltd t/a Intervolve.
+10207 # Interhost Pacific Pty Ltd t/a Intervolve.
+132070 # Interhost Pacific Pty Ltd t/a Intervolve.
+24806 # INTERNET CZ
+53221 # INTERNET DATACENTER
+262603 # INTERNET E WEB HOSTING SERV DE INFORMATICA LTDA
+29883 # Internet Hosting Servers
+24558 # Internet Hosting Service Provider to the Aditya
+37521 # Internet-Solutions-
+206092 # internet.lv
+7506 # INTERQ GMO Internet
+7005 # Interserver
+26666 # Interserver
+36970 # interswitch
+48292 # intibu
+198375 # INULOGIC SARL
+204286 # Invermae Solutions SL
+202636 # Invermae Solutions SL
+212862 # Invermae Solutions SL
+213006 # Invermae Solutions SL
+213005 # Invermae Solutions SL
+53755 # IOFLOOD - Input Output Flood LLC
+38279 # IOMNET-AS ISP/Hosting service Provider Manila
+51862 # IONOS SE
+16584 # IonSwitch
+198432 # Ipcore Datacenters S.L
+47521 # IPHOST .GR IpDomain
+199997 # Ippon Hosting SARL
+33438 # IPVanish
+834 # IPXO
+263812 # IPXON Networks
+47544 # IQ PL Sp. z o.o.
+50465 # IQHost Ltd
+51241 # Iran Post Company-Tehran DataCenter
+216139 # IRONHOST - Iron Hosting Centre LTD
+394814 # ISP4Life
+35366 # ISPPRO-AS EUserv / KOS-Online / Keepfree
+29182 # ISPSYSTEM-AS
+14120 # IT Hosting Services
+25820 # IT7NET - IT7 Networks Inc
+15751 # ITL LLC
+59729 # ITL-
+15626 # ITLAS
+21100 # ITLDC-NL
+11235 # Itron-Hosting
+50655 # Its Hosted
+396986 # IVPN
+32613 # IWEB-AS - iWeb Technologies Inc.
+397373 # iWebFusion
+17019 # JCHost Internet Services
+19969 # JOESDATACENTER - Joe's Datacenter
+56799 # Jordens Datacenter NV
+31240 # JSC Hosting Telesystems autonomous system
+51659 # Justhost
+199481 # K3 # Hosting Limited
+396949 # Kamatera
+396948 # Kamatera
+64022 # Kamatera
+36007 # Kamatera
+204548 # Kamatera
+54913 # Kamatera
+41436 # Kamatera
+210329 # Kamatera Inc
+16862 # Kansas Hosting
+60707 # Kapteyan
+51519 # Karabro
+41281 # KeFF Networks
+197706 # Keminet SHPK
+31103 # KEYWEB-AS
+36920 # KKON
+35179 # Korbank S. A.
+4766 # Korea Telecom
+207439 # Korves.Net
+47161 # KosmoHost IT Technologies LTD
+7765 # KOUMBIT
+13237 # KPN B.V.
+62113 # KRACON-AS
+12488 # KRYSTAL - Krystal Hosting Ltd
+138997 # Kuaichedao
+395111 # KVCNET-2009 - KVCHOSTING.COM LLC
+48505 # Kylos sp. z o.o.
+209735 # Lagrange Cloud
+6517 # LAKENETWORKS
+327942 # LANDMARK-UNIVERSITY
+26277 # Las Vegas NV Datacenter
+396356 # Latitude.sh
+42160 # LCPDCO LCP AS dc oostkamp
+132335 # LeapSwitch
+15133 # Leaseweb Asia Pacific pte. ltd.
+14907 # Leaseweb USA
+396190 # Leeweb
+19148 # Leeweb
+27411 # Leeweb
+134351 # Leeweb
+136988 # Leeweb
+205544 # Leeweb
+393886 # Leeweb
+396362 # Leeweb
+395954 # Leeweb
+28753 # LEEWEB-
+60781 # LEEWEB-NL Netherlands
+394380 # LEEWEB-USA-DAL-10 - Leeweb USA
+7203 # LEEWEB-USA-SFO-12 - Leeweb USA
+30633 # LEEWEB-USA-WDC-01 - Leeweb USA
+8556 # Levantis Hosting GmbH
+10796 # Level 3 Communications
+3549 # Level 3 Parent
+3356 # Level 3 Parent
+8728 # LGI-UPC
+394745 # LH-AS-1
+203417 # LH.pl Sp. z o.o.
+211003 # Lifehost360
+46475 # LIMESTONENETWORKS - Limestone Networks
+56784 # Limited liability company MultiHOST MSK
+48337 # Linode
+17639 # Linode
+63949 # LINODE-AP Linode
+59791 # Linqhost B.V.
+54098 # LionLink Networks
+22558 # Liquid Web
+53824 # Liquid Web
+201682 # Liquid Web
+32244 # LIQUID-WEB-INC - Liquid Web
+58113 # LIR DATACENTER TELECOM SRL
+60404 # LITESERVER
+59677 # LLC Kras-Host
+202023 # LLHost Inc
+200532 # LLP Kompaniya Hoster.KZ
+20021 # LNH-INC - HostMySite
+28333 # Local Datacenter Soluções em Comunicação Ltda.
+199990 # LOCALHOST AS
+50872 # LOCALHOST D.O.O.
+64286 # LogicWeb
+47987 # LoveServers
+54839 # Lowest Host/Empire Technology LLC
+212508 # LowHosting
+955 # LSHIY
+133752 # LSW-HK Leeweb Asia Pacific pte. ltd.
+59253 # LSW-SG Leeweb Asia Pacific pte. ltd.
+394330 # LTDBROADBAND - LTD Broadband LLC
+47223 # Lukman Multimedia Sp. z o.o
+200950 # Lyratris
+42973 # M247
+16247 # M247 Ltd
+9009 # M247 Ltd
+21581 # M5HOSTING
+54455 # MADEIT - MadeIT inc.
+203003 # Magna Capax
+396073 # MAJESTIC-HOSTING-01
+199393 # MakeAPP Cloud Ltd
+52173 # MAKONIX
+58936 # Managed Hosted Applications Limited
+11230 # Managed Hosting Services
+62310 # managedhosting.de GmbH
+38894 # manageNET Pty Ltd hosting services
+47172 # Mart Jaco van Santen trading as Greenhost VOF
+3150 # Mass Response Service GmbH
+24971 # MASTER-AS Czech Republic / www.master.cz
+25532 # masterhost autonomous system
+262287 # Maxihost Hospedagem de Sites Ltda
+40138 # MDNET
+32931 # Mean Servers
+136171 # MEDHAHOSTING-AS-AP Medha Hosting
+46260 # MEDHOST
+14442 # Media-Hosts Inc.
+206728 # MEDIALAND-AS - Media Land LLC
+133143 # Medihost Solutions Pty Ltd
+34549 # Meerfarbig
+197648 # MEGA HOST LIMITED
+56630 # MELBICOM-EU-AS
+39451 # Melbourne Server Hosting Ltd.
+11070 # METANET
+201814 # Meverywhere sp. z o.o.
+53889 # MICFO - Micfo
+58922 # Microchannel Hosting Pty Ltd
+8075 # MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation
+199839 # MikeNetworks B.V.
+2027 # MilkyWan
+52000 # MIRholding https://ipinfo.io/52000
+200719 # MISSDOMAIN - Miss Hosting AB
+39798 # MivoCloud SRL
+42120 # MODIT Datacenter Informatikai es Szolgaltato KFT
+27589 # MOJOHOST
+213646 # MONKEY-TREE-HOSTING - Monkey Tree Hosting Limited
+203939 # Mosaic Data Services
+60476 # MRG Hosting B.V.
+210619 # MTH-NETWORKS - Monkey Tree Hosting Limited
+51747 # Mullvad
+35916 # MULTA-ASN1 - MULTACOM CORPORATION
+42400 # Multihost IT AS
+202448 # MVPS LTD
+48070 # MyHostingSpace
+24961 # MYLOC-AS
+39409 # MyRootPW
+44684 # Mythic Beasts
+133393 # Naki Host Limited
+30998 # NAL-AS
+22612 # Namecheap
+6718 # NAV DATACENTER TELECOM SRL
+28110 # NAVEGALO S.A.
+15967 # Nazwa.pl Sp.z.o.o.
+8732 # NBS System
+34465 # NCRYPTD
+204844 # NCSE Network
+201597 # NE-IT Hosting B.V.
+28997 # Nedcomp Hosting B.V.
+21700 # Neptune Networks
+197477 # Nerdscave Hosting
+47692 # NESSUS
+34420 # NETAFFAIRS-HOSTING-BV - Netaffairs Hosting B.V.
+29632 # NetAssist
+197540 # NetCup - https://asn.ipinfo.app/197540
+10929 # NETELLIGENT - Netelligent Hosting Services Inc.
+34224 # Neterra
+394102 # NetFire
+20692 # NetGate Datacenter ASN
+17439 # Netmagic Datacenter Mumbai
+50667 # NETPROTECT
+54138 # NETPROTECT
+31362 # NETPROTECT
+8674 # Netrouting
+47869 # Netrouting
+37692 # NetStack-AS
+60800 # Netwise Hosting Ltd.
+33322 # Network Data Center Host
+201011 # NETZBETRIEB-GMBH
+26347 # New Dream Network
+38001 # NEWMEDIAEXPRESS-AS-AP NewMedia Express Pte Ltd
+131199 # Nexeon Technologies
+20278 # Nexeon Technologies
+13830 # Nexril
+1764 # next layer GmbH
+199129 # Next point Host EOOD.
+33696 # NextArray LLC
+43350 # NFORCE
+2603 # NForce Entertainment B.V.
+25163 # NG-NIGERIA-AS
+37347 # NGCOM
+27678 # NIC Chile
+37472 # NIGCOMSAT
+29691 # NINE
+19318 # NJIIX-AS-1 - NEW JERSEY INTERNATIONAL INTERNET EXCHANGE LLC
+197372 # NMA Hosting Solutions BV
+134451 # NME-INDONESIA-AS-AP NewMedia Express Pte Ltd
+30893 # NOACKHOSTING-AS - No ACK Group Holding AB
+15003 # NOBIS-TECH - Nobis Technology Group
+19531 # NODESDIRECT - Nodes Direct
+20473 # NordVPN
+136787 # NordVPN
+47526 # Noris-ITK
+57752 # NORMHOST SARL
+201670 # Novahosting Ltd.
+24875 # NOVOSERVE-AS
+21159 # NOVOSERVE-GMBH-AS Frankfurt
+37661 # NRaE1-AS
+14244 # NSI Hosting
+206589 # NSIX Data Center sp. z o.o.
+23393 # NUCDN
+132717 # "NxtGen Datacenter &amp; Cloud Technologies Pvt. Ltd."
+50474 # O2SWITCH
+42675 # Obehosting AB
+33333 # OBJX
+22152 # OC Hosting
+984 # OCTOPUS WEB SOLUTION INC
+32751 # Octovpn / xbox VPN
+202673 # Ohz
+44144 # OMEGASOFT - HostRoyale Technologies Pvt Ltd
+14333 # On-Ramp Indiana
+8560 # ONEANDONE-AS / IONOS
+136258 # ONEPROVIDER-AS BrainStorm Network
+29447 # ONLINE S.A.S.
+34541 # Online Solutions Hosting Services
+33302 # ONS-COS - Data 102
+196678 # OOO Hosterov
+49505 # OOO Network of data-centers Selectel
+58299 # Openfactory GmbH
+205016 # Opera Software AS
+39832 # Opera Software AS
+31898 # Oracle cloud
+41564 # Orion Network Limited
+208226 # OuiHeberg
+43198 # Outsourcery Hosting LTD
+35540 # OVH SAS
+16265 # OVH SAS
+135822 # Ovi Hosting Pvt Ltd
+23959 # Owl Limited
+43357 # Owl Limited
+24549 # Pacificnet Hosting Ltd
+54825 # Packet Host
+147049 # PacketHub
+141039 # PacketHub
+207137 # PacketHub S.A.
+198310 # PALLADA-AS
+2033 # Panix
+40861 # PARAD-40-ASN - Paradise Networks LLC
+52025 # ParadoxNetworks
+47625 # Paul David Hughes trading as Hosting Systems
+214915 # Pawhost
+3491 # PCCW Global
+29354 # PCE-DE-DUS - PCE-NET GmbH
+34971 # PDDA-AS
+48031 # PE Ivanov Vitaliy Sergeevich
+212027 # PEBBLEHOST - Daniel Jackson
+25379 # PEKITEL-AS
+62049 # Penta Corporate Hosting Ltd
+22384 # PERFORMIVE-VNI
+35295 # PeterHost.Ru Hosting Provider at SPb
+51396 # Pfcloud UG
+42311 # PGHOSTING-DRESDEN-BACKBONE
+37248 # PHE3TEL
+22363 # PHMGMT-1 - Powerhouse Management
+44050 # PIN-AS
+215085 # PixelHosting
+53589 # PlanetHoster
+57974 # Plasma DC Solutions
+51852 # PLI-AS
+31786 # PloxHost
+12417 # Plus Hosting Grupa d.o.o.
+8972 # PLUSSERVER-AS
+61157 # PLUSSERVER-ASN1
+59705 # POBOX Hosting Limited
+53667 # PONYNET - FranTech Solutions
+36791 # Portland Internet Hosting LLC
+42708 # PORTLANE www.portlane.com
+9925 # Powerbe DataCenter Services
+211358 # PP-Networks
+14160 # Premium Hosting
+50525 # Privado VPN
+11232 # Private Internet Access
+11271 # Private Layer Inc.
+210030 # PrivateHeberg.net
+138398 # Prodigi
+201446 # PROFESIONALHOSTING - Soluciones web on line s.l.
+34432 # Profihost AG
+61335 # Profvds
+12389 # Proserve B.V.
+47810 # Proservice LLC
+41062 # ProstoHosting LTD
+209103 # Proton AG
+203750 # ProtonVPN
+55536 # PSWITCH-HK PACSWITCH IP NETWORK
+40676 # Psychz Networks
+59135 # PT Dapur Hosting
+214172 # PureServers
+26548 # PureVoltage https://ipinfo.io/26548
+58519 # PureVPN
+201630 # QHOSTER LTD.
+268581 # QNAX LTDA
+19281 # QUAD9-AS-1
+7185 # QuadraNet Internet Services
+25260 # QualityHosting AG
+23108 # Quantact Hosting Solutions
+29073 # QUASINETWORKS
+15600 # QUICKLINE Quickline AG
+46261 # QUICKPACKET - QuickPacket
+62744 # Quintex Alliance Consulting
+40281 # QWK.net Hosting
+132779 # RackBank Datacenters Private Ltd
+56038 # RackCorp
+31590 # Rackhosting.com ApS
+62282 # RACKRAY UAB Rakrejus
+12200 # Rackspace
+19994 # Rackspace
+58683 # Rackspace
+33070 # Rackspace
+10532 # Rackspace Hosting
+22720 # Rackspace Hosting
+27357 # Rackspace Hosting
+45187 # RACKSPACE-AP Rackspace IT Hosting AS IT Hosting Provider Hon
+15395 # RACKSPACE-LON
+198412 # Rage4 AnycastIP
+214943 # RAILNET - Railnet LLC
+3842 # RAMNODE - RamNode LLC
+213211 # RASICOM
+22781 # RBLHST - Strong Technology
+54203 # RBLHST-FL - Strong Technology
+13926 # RBLHST-NY - Strong Technology
+63128 # RBLHST-TOR - Strong Technology
+8708 # RDS SA
+206246 # REACH MEDIA SKY LLP
+7595 # Readyspace Network Pte Ltd
+39458 # Real Hosts Limited
+26481 # Rebel Hosting
+53057 # RedeHost Internet Ltda.
+39647 # REDHOSTING-AS - Enreach Netherlands B.V.
+35662 # REDSTATION European Network
+8586 # REDSTATION LIMITED
+34953 # RelAix Networks
+29713 # Reliable Hosting Services
+62651 # Reliablehosting.com
+23470 # ReliableSite.Net LLC
+62838 # Reprise Hosting
+30849 # Research-and-production company Host Ltd
+14987 # Rethem Hosting LLC
+9002 # RETN Limited
+3927 # RGNET-IAD RGnet Ashburn DC2
+205220 # RHC-HOSTING - RH & Co. IT Services Ltd
+47577 # Righthosting Ltd
+16652 # Riseup Networks www.ipqualityscore.com/asn-details/16652/riseup-networks
+5577 # ROOT
+51447 # RootLayer Web Services Ltd
+212895 # Route64
+14956 # Router Hosting
+52219 # ROUTERNETWORKS
+41637 # ROUTING-ANYCAST - Hosting.de GmbH
+54334 # Roya Hosting LLC
+212477 # RoyaleHosting BV
+208566 # Rozetka Sp. z o.o.
+63916 # RSH Hosting Network
+211509 # RUDAKI.NET
+400587 # Ryamer LLC
+42927 # S-NET Sp. z o.o.
+50915 # S.C. Everhost S.R.L.
+21217 # Safe Host SA
+59816 # SAFE HOSTS INTERNET LLP
+13335 # SaferVPN
+9370 # SAKURA-B SAKURA Internet Inc.
+9371 # SAKURA-C SAKURA Internet Inc.
+23273 # Santa Barbara Web Hosting
+395978 # SANTA CLARA VALLEY WATER DISTRICT PUBLIC FACILITIES FINANCING CORPORATION
+24013 # SB SB Professional Services
+59632 # SC Pidgin Host SRL
+40476 # Scala Hosting LLC
+12876 # Scaleway
+54265 # SCALEWAY US CORPORATION
+142002 # SCLOUDPTELTD-AS Scloud Pte Ltd
+52073 # SeaPerf
+29452 # Secura Hosting Ltd
+58057 # Securebit AG
+398986 # SECURED.GG
+60558 # SECUREDSERVERS-
+59795 # SecurityLayer Hosting Solutions SRL
+47846 # SEDO-AS
+12637 # Seeweb
+60739 # Server Centre Hosting Ltd
+206898 # Server Hosting Pty Ltd
+55286 # SERVER-MANIA - B2 Net Solutions Inc.
+30083 # SERVER4YOU - server4you Inc.
+35100 # Server9.Cloud / AS35100.NET
+56322 # SERVERASTRA-AS
+23352 # SERVERCENTRAL - Server Central Network
+49532 # SERVERHUB-
+30693 # SERVERHUB-PHOENIX - Eonix Corporation
+50673 # SERVERIUS-AS
+133398 # Serveroffer
+19624 # SERVERROOM - Data Room
+7979 # SERVERS - Servers.com
+34989 # SERVETHEWORLD-AS
+15919 # Servicios de Hosting en Internet S.A.
+29119 # ServiHosting Networks S.L.
+208885 # Servisposta
+34872 # Servperso
+49313 # Seva-Host Ltd
+57879 # sfip84 # Hosting und mehr UG haftungsbeschraenkt
+45470 # SG-8-TO-SG 8 - Infinity Pte Ltd
+24482 # SGGS-AS-AP SG.GS
+14492 # Sharktech
+394177 # SHIFT HOSTING LLC
+395092 # SHOCK Hosting
+209372 # "SIA ""Singularity Telecom"""
+43513 # Sia Nano IT
+42532 # SIA VEESP
+56617 # SIA VPS Hosting
+35624 # SILVERSTAR-AS - Silverstar Invest Limited
+46177 # SimpleCDN Technologies
+132816 # SIMPLERCLOUD-AS-AP SimplerCloud Pte Ltd
+29550 # SIMPLYTRANSIT
+62088 # Sinarohost LTD
+59472 # Sinersio Polska Sp. z o.o.
+32475 # SINGLEHOP-LLC - SingleHop
+45179 # SiteHost New Zealand
+27597 # Siteserver Hosting
+201702 # skHosting.eu s.r.o.
+215467 # Skhron
+62026 # SkyparkCDN Ltd.
+202520 # SkyPass Solutions
+7720 # Skywolf Cloud
+32740 # Sliqua Enterprise Hosting
+39566 # Smarthost sp. z o.o.
+58667 # SmartNet Hosting and connectivity
+400212 # SMC Server Solutions
+62370 # SNEL
+36351 # SOFTLAYER - SoftLayer Technologies Inc.
+12617 # Solido Hosting A/S
+56934 # SOLOGIGABIT-AS
+199847 # SORTA-HOSTING-SMLLC
+5539 # SPACENET SpaceNET AG
+212514 # SpanningNetworks
+207605 # SPD - S.P.D. Hosting LTD
+25642 # Spiderhost Inc
+14567 # Springs Hosting
+197226 # SPRINT S.A.
+35278 # SPRINTHOST.RU LLC
+53831 # SQUARESPACE
+12266 # SRN-HOSTING
+19437 # SS-ASH - SECURED SERVERS LLC
+20454 # SSASN2 - SECURED SERVERS LLC
+328840 # ST DIGITAL
+46844 # ST-BGP - Sharktech
+20446 # StackPath
+44477 # Stark Industries
+134835 # Starry Network
+197914 # Stockho Hosting SARL
+212806 # Stratagem Hosting
+6724 # STRATO STRATO AG
+395502 # Sunbreak Electronics LLC
+41079 # SuperHost.pl sp. z o.o.
+201200 # SuperHosting.BG Ltd.
+39392 # SUPERNETWORK-AS Bilejova 407
+1442 # SureHosting Internet Solutions
+1103 # SURFNET-NL SURFnet
+209854 # Surfshark
+41634 # SVEA - Svea Hosting AB
+208453 # SweHosting
+37230 # SWIFTTALK
+35017 # SWIFTWAY-AS Netherlands
+559 # SWITCH Peering requests: peering@switch.ch
+62471 # SWITCHDATASOLUTIONS-AS - SupremeBytes
+43620 # Syan Limited Hosting
+197439 # Sylon Hosting GmbH
+58305 # SYN
+215664 # SynthoHosting
+25291 # SysEleven GmbH
+59678 # SYSTEM36
+198313 # SystemHOST Limited
+20248 # Take 2 Hosting
+42705 # Talia provides VSAT network and hosting services worldwide.
+42724 # TALIDO
+42295 # TBISS Ltd
+44398 # TDC Hosting
+61969 # TEAMINTERNET-AS
+13909 # Techie Hosting
+42622 # Teknik i Media Datacenter Stockholm AB
+205119 # TELEKS DOOEL Skopje
+41828 # TELEMACH-HOSTING - Telemach Slovenija d.o.o.
+60505 # TELENET-SLJUDJANKA-AS
+47588 # TELENETRONICS-AS
+34745 # TeleWare Hosted Services Ltd.
+3308 # TELIANET-DENMARK
+36231 # TEMPEST-HOSTING
+132203 # Tencent
+13811 # Tencent Building
+45090 # Tencent cloud computing
+56655 # TerraHost
+203629 # TERRAHOST_AS
+24958 # The Bunker Secure Hosting Limited
+133795 # The Constant Company
+46407 # The Constant Company
+11508 # The Constant Company
+36290 # THECABLE-STKITTS-01 - The Cable of St. Kitts
+40156 # THEOPT-HOU - The Optimal Link Corporation
+51159 # THINKSYSTEMSUK-ASN
+50613 # THORDC-AS
+397423 # Tier.Net
+56911 # Titania Networks
+17971 # TM-VADS DC Hosting
+47143 # Todayhost Limited
+59854 # Top Level Hosting SRL
+395747 # TorGuard
+46562 # TOTAL-SERVER-SOLUTIONS - Total Server Solutions L.L.C.
+57682 # TOV HOST VDS
+43289 # TRABIA trabia network
+3722 # Tranquil Hosting
+13647 # Tranquil Hosting
+133618 # TRELLIAN-AS-AP Trellian Pty. Limited
+47328 # TRI-AS
+393577 # Tritan Internet LLC
+20450 # Trojan Hosting
+20860 # Trust.Zone
+47447 # TTM
+394725 # TunnelBear
+40244 # TURNKEY-INTERNET - Turnkey Internet Inc.
+18041 # twds
+30235 # Twinservers Hosting Solutions Inc.
+4323 # TWTC - tw telecom holdings
+11878 # TZULO - tzulo
+47205 # UAB HOSTEX
+135377 # UCLOUD-HK-AS-AP UCLOUD INFORMATION TECHNOLOGY HK LIMITED
+23881 # UDomain Web Hosting Company Ltd
+265620 # UFINET
+52468 # UFINET
+198047 # UK Webhosting Ltd
+13213 # UK2NET-AS
+42831 # UKSERVERS-AS UK Dedicated Servers
+14986 # Ultra Hosting
+17920 # Ultra Serve Internet Pty Ltd - Transit AS - Hosting Provider
+214036 # Ultrahost
+198794 # UNCENSOREDDNS-AS
+211301 # Unesty Company
+46606 # Unified Layer
+32275 # Unified Webhosting
+37170 # UNILAG
+23342 # UNITEDLAYER - Unitedlayer
+61107 # UNIVERSAL CDN
+47890 # UNMANAGED-DEDICATED-SERVERS - UNMANAGED LTD
+16284 # UNSPECIFIED
+202053 # UPCLOUD
+207656 # URDN
+63018 # USDEDICATED - US Dedicated
+37917 # UTINS University of Tsukuba
+3204 # V.PS
+5505 # VADAVO
+29465 # VCG-AS
+216071 # VDSINA
+48282 # VDSINA
+37088 # VDT-AS
+29066 # VELIANET-AS velia.net Internetdienste GmbH
+50608 # Ventelo Hosting AS
+199213 # Venzo Hosting A/S
+703 # Verizon Business
+36114 # VERSAWEB-ASN - Versaweb
+64073 # Vetta Online
+38731 # Vietel - CHT Compamy Ltd
+203523 # VIRTONO-NETWORKS
+35661 # Virtua.Cloud
+150315 # Virtury Cloud
+262170 # Visualhosting.net
+64200 # VIVID-HOSTING LLC
+201862 # VMhosts Ltd
+36873 # VNL1-AS
+45899 # VNPT Corp
+31472 # VoiceHost Ltd
+31333 # VOLLMAR-AS - Hosting.de GmbH
+46664 # VOLUMEDRIVE - VolumeDrive
+62217 # VOOSERVERS
+3223 # VOXILITY
+35908 # VPLSNET - Krypt Technologies
+20448 # VPNtranet
+40819 # VPS Datacenter
+6188 # VPS Datacenter
+56382 # vServer.site
+43541 # VSHosting s.r.o.
+21859 # VyprVPN
+24381 # Web Hosting and Colocation Services
+10200 # Web hosting provider and ISP connectivity.
+327813 # Web4Africa
+27257 # WEBAIR-INTERNET - Webair Internet Development Company Inc.
+20264 # WEBAIR-INTERNET-2 - Webair Internet Development Company Inc.
+211448 # WEBCONEX
+44803 # Webdock.io
+35710 # weber.cloud
+149020 # WebHorizon Internet Services
+14708 # WebHost Chile S.A.
+27229 # Webhosting.Net
+202401 # WebHosting24
+965 # WEBHOSTINGHOLDINGS
+48093 # Webland Hosting AB
+18403 # WebNX
+18450 # WEBNX - WebNX
+42465 # Websense Hosted Security - Anycast network
+7598 # Websense Hosted Security - AsiaPac region
+14754 # WEBSERVER AG
+133296 # WEBWERKS-AS-IN Web Werks India Pvt. Ltd.
+33480 # WEBWERKS1 - Web Werks
+30900 # WEBWORLD-AS t/a Web World Ireland
+35415 # WEBZILLA
+30475 # WEHOSTWEBSITES-COM - Handy Networks
+29854 # WESTHOST - WestHost
+14670 # WHG-USE1 - WHG Hosting Services Ltd
+55229 # White Sands Hosting
+51999 # WhiteHat
+394474 # WhiteLabelColo
+32097 # WII-KC - WholeSale Internet
+137391 # Windscribe
+33251 # Windstream Hosted Solutions
+7349 # Windstream Hosted Solutions
+37540 # WINROCK-
+53013 # WIX NET DO BRASIL LTDA
+207934 # WNB-AS
+52465 # WNet Internet y Hosting
+29593 # WOJCIECH LOREK ENDOR COMPUTERS
+49981 # WORLDSTREAM
+23033 # WOW - Wowrack.com
+40824 # WZCOM-US - WZ Communications Inc.
+52270 # X-Host SRL
+27524 # XEEX-COMMUNICATIONS
+15353 # Xentain Solutions Inc.
+62513 # Xenyth Cloud
+51191 # XIRRA
+35470 # XL-AS
+6134 # XNNET
+932 # XNNET
+6233 # xTom
+949 # XTOM
+4785 # xTom
+9312 # xTom
+8888 # XTOM - xTom Pty Ltd
+3214 # xTom GmbH
+35536 # XTOM-35536 - xTom GmbH
+3258 # XTOM-JAPAN - xTom Japan Co.
+211588 # Xyphen IT
+10310 # Yahoo! Inc.
+200350 # Yandex
+208795 # Yandex
+58073 # YISP-AS
+199415 # YORKHOST
+61138 # Zappie Host LLC
+9680 # Zayo Bandwidth
+6461 # Zayo Bandwidth
+51167 # ZenMate
+328035 # Zeta-Web-Nigeria-AS
+7604 # Zettagrid
+37506 # Zinox
+204601 # Zomro B.V.
+45152 # Zone Networks Pty Ltd
+8477 # ZTS Echostar Studio Poznan Poland
+60729 # Zwiebelfreunde e.V.
