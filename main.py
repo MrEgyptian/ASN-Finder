@@ -97,8 +97,20 @@ def ensure_exports_dir(exports_dir='exports'):
         print(f"Warning: Could not create exports directory '{exports_dir}': {e}")
 
 
-def save_results(results, filename, output_format='csv', exports_dir='exports', cloudflare_action='block'):
-    """Save ASN lookup results to file in specified format using pandas."""
+def save_results(results, filename, output_format='csv', exports_dir='exports', cloudflare_action='block', 
+                 columns=None, separate_by=None):
+    """
+    Save ASN lookup results to file in specified format using pandas.
+    
+    Args:
+        results: List of result dictionaries
+        filename: Output filename
+        output_format: Output format
+        exports_dir: Exports directory
+        cloudflare_action: Cloudflare rule action
+        columns: List of columns to include (None = all)
+        separate_by: Column name to separate data by (None = no separation)
+    """
     if not PANDAS_AVAILABLE:
         print("Error: pandas library is required for saving results.")
         print("Install it with: pip install pandas")
@@ -117,9 +129,27 @@ def save_results(results, filename, output_format='csv', exports_dir='exports', 
             export_to_cloudflare,
             detect_format
         )
+        from utils.data_filter import filter_columns, separate_data
         
         # Create DataFrame from results
         df = pd.DataFrame(results)
+        
+        # Filter columns if specified
+        if columns:
+            df = filter_columns(df, columns)
+        
+        # Handle data separation
+        if separate_by:
+            format_type = detect_format(filename, output_format)
+            base_filename = os.path.basename(filename) if os.path.dirname(filename) else filename
+            
+            separated_files = separate_data(df, separate_by, exports_dir, base_filename, format_type)
+            
+            if separated_files:
+                print(f"\n✓ Data separated by '{separate_by}' into {len(separated_files)} file(s):")
+                for filepath, count, value in separated_files:
+                    print(f"  {filepath}: {count} records ({value})")
+                return
         
         # Detect format
         format_type = detect_format(filename, output_format)
@@ -251,6 +281,20 @@ Examples:
         action='store_true',
         default=False,
         help='Detect and separate VPN ASNs from normal ones using data/vpn_hosts.txt'
+    )
+    parser.add_argument(
+        '--fields',
+        dest='fields',
+        nargs='+',
+        default=None,
+        help='Select specific fields to export (e.g., --fields IP ASN Country). Available fields: IP, ASN, AS Name, Country, IP Block, Registry, Error, Type'
+    )
+    parser.add_argument(
+        '--separate-by',
+        dest='separate_by',
+        choices=['Type', 'Country', 'Registry', 'ASN'],
+        default=None,
+        help='Separate data into different files based on column value (e.g., --separate-by Type creates separate files for VPN/Normal)'
     )
     return parser.parse_args()
 
@@ -472,8 +516,13 @@ def main():
     final_success_count = success_count[0]
     final_error_count = error_count[0]
     
+    # Get field selection and separation options
+    selected_fields = args.fields
+    separate_by = args.separate_by
+    
     # Save results in specified format
-    save_results(results, output_file, output_format, exports_dir, cloudflare_action)
+    save_results(results, output_file, output_format, exports_dir, cloudflare_action, 
+                 columns=selected_fields, separate_by=separate_by)
     
     # Summary
     print(f"\nSummary:")
