@@ -68,3 +68,25 @@ def get_config_bool(config, section, key, default_value):
     """Get boolean configuration value."""
     value = get_config_value(config, section, key, str(default_value)).lower()
     return value in ('true', '1', 'yes', 'on')
+
+
+def get_section_dict(config, section):
+    """
+    Get all options from a section as a dictionary.
+    
+    Args:
+        config: ConfigParser object (can be None)
+        section: Configuration section name
+    
+    Returns:
+        Dictionary with section options, or empty dict if section doesn't exist
+    """
+    if config is None:
+        return {}
+    
+    try:
+        if config.has_section(section):
+            return dict(config.items(section))
+        return {}
+    except Exception:
+        return {}

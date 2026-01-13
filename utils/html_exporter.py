@@ -3,20 +3,28 @@
 import pandas as pd
 
 
-def export_to_html(df, filename):
+def export_to_html(df, filename, config_dict=None):
     """
     Export DataFrame to HTML file with styling.
     
     Args:
         df: pandas DataFrame containing the results
         filename: Output filename
+        config_dict: Optional dictionary with HTML configuration:
+            - table_class: CSS class for the table (default: 'table table-striped')
     
     Returns:
         Tuple of (success: bool, message: str)
     """
     try:
+        if config_dict is None:
+            config_dict = {}
+        
+        # Parse HTML configuration
+        table_class = config_dict.get('table_class', 'table table-striped')
+        
         # Create HTML table with styling
-        html_content = df.to_html(index=False, escape=False, classes='table table-striped', table_id='asn_results')
+        html_content = df.to_html(index=False, escape=False, classes=table_class, table_id='asn_results')
         
         html_template = f"""<!DOCTYPE html>
 <html>

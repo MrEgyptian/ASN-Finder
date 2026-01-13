@@ -98,7 +98,7 @@ def ensure_exports_dir(exports_dir='exports'):
 
 
 def save_results(results, filename, output_format='csv', exports_dir='exports', cloudflare_action='block', 
-                 columns=None, separate_by=None):
+                 columns=None, separate_by=None, config=None):
     """
     Save ASN lookup results to file in specified format using pandas.
     
@@ -108,8 +108,9 @@ def save_results(results, filename, output_format='csv', exports_dir='exports', 
         output_format: Output format
         exports_dir: Exports directory
         cloudflare_action: Cloudflare rule action
-        columns: List of columns to include (None = all)
+        columns: List of columns to include (None = all, command-line overrides config)
         separate_by: Column name to separate data by (None = no separation)
+        config: ConfigParser object for reading format-specific settings
     """
     if not PANDAS_AVAILABLE:
         print("Error: pandas library is required for saving results.")
@@ -120,7 +121,7 @@ def save_results(results, filename, output_format='csv', exports_dir='exports', 
         # Ensure exports directory exists
         ensure_exports_dir(exports_dir)
         
-        # Import exporter functions
+        # Import exporter functions and config reader
         from utils import (
             export_to_csv,
             export_to_json,
@@ -130,9 +131,25 @@ def save_results(results, filename, output_format='csv', exports_dir='exports', 
             detect_format
         )
         from utils.data_filter import filter_columns, separate_data
+        from utils.config_reader import get_section_dict, get_config_value
         
         # Create DataFrame from results
         df = pd.DataFrame(results)
+        
+        # Detect format
+        format_type = detect_format(filename, output_format)
+        
+        # Get format-specific config
+        format_config = {}
+        if config:
+            format_config = get_section_dict(config, format_type)
+            
+            # Handle columns from config (only if not specified via command line)
+            if not columns and format_config.get('cols'):
+                cols_str = format_config.get('cols', '')
+                if cols_str:
+                    # Parse columns from config (comma-separated, strip spaces)
+                    columns = [col.strip() for col in cols_str.split(',') if col.strip()]
         
         # Filter columns if specified
         if columns:
@@ -140,7 +157,6 @@ def save_results(results, filename, output_format='csv', exports_dir='exports', 
         
         # Handle data separation
         if separate_by:
-            format_type = detect_format(filename, output_format)
             base_filename = os.path.basename(filename) if os.path.dirname(filename) else filename
             
             separated_files = separate_data(df, separate_by, exports_dir, base_filename, format_type)
@@ -151,9 +167,6 @@ def save_results(results, filename, output_format='csv', exports_dir='exports', 
                     print(f"  {filepath}: {count} records ({value})")
                 return
         
-        # Detect format
-        format_type = detect_format(filename, output_format)
-        
         # Ensure filename is in exports directory
         if not os.path.dirname(filename):
             # No directory specified, use exports directory
@@ -163,37 +176,41 @@ def save_results(results, filename, output_format='csv', exports_dir='exports', 
             basename = os.path.basename(filename)
             filename = os.path.join(exports_dir, basename)
         
-        # Save based on format
+        # Save based on format with config
         if format_type == 'csv':
-            success, message = export_to_csv(df, filename)
+            success, message = export_to_csv(df, filename, config_dict=format_config)
             if not success:
                 print(message)
                 sys.exit(1)
             print(message)
         
         elif format_type == 'json':
-            success, message = export_to_json(df, filename)
+            success, message = export_to_json(df, filename, config_dict=format_config)
             if not success:
                 print(message)
                 sys.exit(1)
             print(message)
         
         elif format_type == 'html':
-            success, message = export_to_html(df, filename)
+            success, message = export_to_html(df, filename, config_dict=format_config)
             if not success:
                 print(message)
                 sys.exit(1)
             print(message)
         
         elif format_type == 'sql':
-            success, message, table_name = export_to_sql(df, filename)
+            success, message, table_name = export_to_sql(df, filename, config_dict=format_config)
             if not success:
                 print(message)
                 sys.exit(1)
             print(message)
         
         elif format_type == 'cloudflare':
-            success, message = export_to_cloudflare(df, filename, action=cloudflare_action)
+            # Get Cloudflare-specific config
+            cloudflare_config = get_section_dict(config, 'CLOUDFLARE') if config else {}
+            cf_action = cloudflare_config.get('rule_action', cloudflare_action)
+            cf_description = cloudflare_config.get('rule_description', 'ASN-based firewall rule')
+            success, message = export_to_cloudflare(df, filename, action=cf_action, description=cf_description)
             if not success:
                 print(message)
                 sys.exit(1)
@@ -522,7 +539,7 @@ def main():
     
     # Save results in specified format
     save_results(results, output_file, output_format, exports_dir, cloudflare_action, 
-                 columns=selected_fields, separate_by=separate_by)
+                 columns=selected_fields, separate_by=separate_by, config=config)
     
     # Summary
     print(f"\nSummary:")
