@@ -23,21 +23,25 @@ def export_to_csv(df, filename, config_dict=None):
             config_dict = {}
         
         # Parse CSV configuration
-        lineterminator = config_dict.get('line_separator', '\n').replace('\\n', '\n').replace('\\r', '\r')
-        quotechar = config_dict.get('quote_character', '"').strip('"').strip("'")
-        escapechar = config_dict.get('escape_character', '\\').replace('\\\\', '\\')
+        lineterminator = config_dict.get('line_separator', '\n')
+        # Handle escape sequences
+        if isinstance(lineterminator, str):
+            lineterminator = lineterminator.replace('\\n', '\n').replace('\\r', '\r').replace('\\t', '\t')
+        
+        quotechar = config_dict.get('quote_character', '"')
+        # Remove surrounding quotes if present
+        if isinstance(quotechar, str):
+            quotechar = quotechar.strip('"').strip("'")
+            if not quotechar:
+                quotechar = '"'
         
         # Set pandas CSV parameters
         csv_params = {
             'index': False,
             'encoding': 'utf-8',
             'lineterminator': lineterminator,
-            'quotechar': quotechar if quotechar else '"',
+            'quotechar': quotechar,
         }
-        
-        # Only set escapechar if provided and not empty
-        if escapechar and escapechar != '\\':
-            csv_params['escapechar'] = escapechar
         
         df.to_csv(filename, **csv_params)
         return True, f"\n✓ ASN lookup completed! Results saved to '{filename}' (CSV format)"

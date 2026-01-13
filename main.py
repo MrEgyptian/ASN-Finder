@@ -98,7 +98,8 @@ def ensure_exports_dir(exports_dir='exports'):
 
 
 def save_results(results, filename, output_format='csv', exports_dir='exports', cloudflare_action='block', 
-                 columns=None, separate_by=None, config=None):
+                 columns=None, separate_by=None, config=None, json_indent=None, sql_no_create_table=False, 
+                 sql_no_insert=False, cloudflare_description=None, html_table_class=None):
     """
     Save ASN lookup results to file in specified format using pandas.
     
@@ -107,10 +108,15 @@ def save_results(results, filename, output_format='csv', exports_dir='exports', 
         filename: Output filename
         output_format: Output format
         exports_dir: Exports directory
-        cloudflare_action: Cloudflare rule action
+        cloudflare_action: Cloudflare rule action (command-line overrides config)
         columns: List of columns to include (None = all, command-line overrides config)
         separate_by: Column name to separate data by (None = no separation)
         config: ConfigParser object for reading format-specific settings
+        json_indent: JSON indentation (command-line overrides config)
+        sql_no_create_table: Whether to exclude CREATE TABLE statement (command-line overrides config)
+        sql_no_insert: Whether to exclude INSERT statements (command-line overrides config)
+        cloudflare_description: Cloudflare rule description (command-line overrides config)
+        html_table_class: HTML table CSS class (command-line overrides config)
     """
     if not PANDAS_AVAILABLE:
         print("Error: pandas library is required for saving results.")
@@ -150,6 +156,23 @@ def save_results(results, filename, output_format='csv', exports_dir='exports', 
                 if cols_str:
                     # Parse columns from config (comma-separated, strip spaces)
                     columns = [col.strip() for col in cols_str.split(',') if col.strip()]
+        
+        # Override config values with command-line arguments
+        if json_indent is not None and format_type == 'json':
+            format_config['indent'] = json_indent
+        # JSON exporter will handle conversion from config string to int
+        
+        # Handle SQL flags (stored in format_config for later use)
+        if format_type == 'sql':
+            format_config['_sql_no_create_table'] = sql_no_create_table
+            format_config['_sql_no_insert'] = sql_no_insert
+        
+        if html_table_class is not None and format_type == 'html':
+            format_config['table_class'] = html_table_class
+        
+        # Store cloudflare description separately for later use
+        if cloudflare_description is not None:
+            format_config['_cloudflare_description'] = cloudflare_description
         
         # Filter columns if specified
         if columns:
@@ -208,8 +231,9 @@ def save_results(results, filename, output_format='csv', exports_dir='exports', 
         elif format_type == 'cloudflare':
             # Get Cloudflare-specific config
             cloudflare_config = get_section_dict(config, 'CLOUDFLARE') if config else {}
-            cf_action = cloudflare_config.get('rule_action', cloudflare_action)
-            cf_description = cloudflare_config.get('rule_description', 'ASN-based firewall rule')
+            # Command-line argument overrides config
+            cf_action = cloudflare_action
+            cf_description = format_config.get('_cloudflare_description') or cloudflare_config.get('rule_description', 'ASN-based firewall rule')
             success, message = export_to_cloudflare(df, filename, action=cf_action, description=cf_description)
             if not success:
                 print(message)
@@ -313,6 +337,41 @@ Examples:
         default=None,
         help='Separate data into different files based on column value (e.g., --separate-by Type creates separate files for VPN/Normal)'
     )
+    parser.add_argument(
+        '--json-indent',
+        dest='json_indent',
+        type=int,
+        default=None,
+        help='JSON output indentation level (default: 2, or from config)'
+    )
+    parser.add_argument(
+        '--sql-no-create-table',
+        dest='sql_no_create_table',
+        action='store_true',
+        default=False,
+        help='Exclude CREATE TABLE statement from SQL output (default: include)'
+    )
+    parser.add_argument(
+        '--sql-no-insert',
+        dest='sql_no_insert',
+        action='store_true',
+        default=False,
+        help='Exclude INSERT statements from SQL output (default: include)'
+    )
+    parser.add_argument(
+        '--cloudflare-description',
+        dest='cloudflare_description',
+        type=str,
+        default=None,
+        help='Cloudflare rule description (default: from config or "ASN-based firewall rule")'
+    )
+    parser.add_argument(
+        '--html-table-class',
+        dest='html_table_class',
+        type=str,
+        default=None,
+        help='HTML table CSS class (default: "table table-striped", or from config)'
+    )
     return parser.parse_args()
 
 
@@ -397,7 +456,8 @@ def main():
     full_details = args.full_details if args.full_details else get_config_bool(config, 'DEFAULT', 'full_details', False)
     detect_vpn = args.detect_vpn if args.detect_vpn else get_config_bool(config, 'DEFAULT', 'detect_vpn', False)
     exports_dir = get_config_value(config, 'DEFAULT', 'exports_dir', 'exports')
-    cloudflare_action = args.cloudflare_action if args.cloudflare_action != 'block' else get_config_value(config, 'CLOUDFLARE', 'rule_action', 'block')
+    # Command-line args override config (args.cloudflare_action defaults to 'block' if not specified)
+    cloudflare_action = args.cloudflare_action
     
     # Check for required libraries
     if not IPWHOIS_AVAILABLE:
@@ -539,7 +599,10 @@ def main():
     
     # Save results in specified format
     save_results(results, output_file, output_format, exports_dir, cloudflare_action, 
-                 columns=selected_fields, separate_by=separate_by, config=config)
+                 columns=selected_fields, separate_by=separate_by, config=config,
+                 json_indent=args.json_indent, sql_no_create_table=args.sql_no_create_table,
+                 sql_no_insert=args.sql_no_insert, cloudflare_description=args.cloudflare_description,
+                 html_table_class=args.html_table_class)
     
     # Summary
     print(f"\nSummary:")
