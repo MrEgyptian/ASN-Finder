@@ -319,5 +319,5 @@ Contributions, issues, and feature requests are welcome!
 ## Acknowledgments
 
 - Uses `ipwhois` library for ASN lookups
-- VPN ASN database compiled from various sources
+- VPN ASN database: Thanks to [@githubcom13](https://gist.github.com/githubcom13/2e0a0ab3c130024fe25920854e3120eb) for the global-asn-providers-vps-dedicated-colo-transit list
 - Cloudflare firewall rules format based on Cloudflare API documentation
